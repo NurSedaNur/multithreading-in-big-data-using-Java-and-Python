@@ -57,3 +57,17 @@ benzerlikteki konuları (issue) içeren kayıtları ekranda gösteriniz.
 • Senaryo 4: 5 Thread ile Konular(Issue) sütununda %80 ve üzeri benzer olan
 kayıtları ekranda gösteriniz
 
+DÜZENLENMİŞ VERİ SETİNİN SON HALİ:
+
+![image](https://user-images.githubusercontent.com/115660565/228302015-f1dc5033-cad2-4781-bccd-5c13f54cb5df.png)
+
+ARAYÜZ FOTOĞRAFI:
+![image](https://user-images.githubusercontent.com/115660565/228302134-049c8649-cc28-4f07-9327-5648d10c8a65.png)
+
+
+AKIŞ ŞEMASI:
+
+![image](https://user-images.githubusercontent.com/115660565/228302226-c6ac0d4f-7f73-4182-8c84-4ff35a8fbf66.png)
+
+
+
